@@ -1,3 +1,5 @@
+Maria Eduarda Vieira
+
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
